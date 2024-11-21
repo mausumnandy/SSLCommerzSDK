@@ -19,11 +19,11 @@ Pods/
 Podfile.lock
 
 # Ignore Swift Package Manager files
-.swiftpm/
-Package.resolved
+#.swiftpm/
+#Package.resolved
 
 # XCFramework build files
-*.xcframework
+#*.xcframework
 
 # Ignore compiled assets
 *.ipa
