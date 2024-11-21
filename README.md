@@ -22,7 +22,7 @@ platform :ios, '11.0'
 target 'YourApp' do
   use_frameworks!
 
-  pod 'SSLCommerzSDK', '2.0.4'
+  pod 'SSLCommerzSDK'
 
 end
 ```
