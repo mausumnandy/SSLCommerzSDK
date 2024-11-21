@@ -40,7 +40,11 @@ import SSLCommerzSDK
 ```
 
 ## Step 2: Initialize the Payment
-### You can initialize a payment using the provided SDK functions. Refer to the official documentation for details on how to configure and start transactions.
+```
+You can initialize a payment using the provided SDK functions. Refer to the official documentation for details on how to configure and start transactions.
+```
 
 ## Step 3: Handling Responses
-### The SDK provides callbacks to handle success, failure, and cancellation events during the payment process.
+```
+The SDK provides callbacks to handle success, failure, and cancellation events during the payment process.
+```
