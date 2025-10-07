@@ -4,7 +4,7 @@ SSLCommerzSDK provides a convenient way to integrate the SSLCommerz payment gate
 
 ## Requirements
 ```plaintext
-- iOS 12.0+
+- iOS 13.0+
 - Xcode 16.0+
 - Swift 5.0+
 ```
@@ -17,7 +17,7 @@ $ sudo gem install cocoapods
 ```
 ### To integrate SSLCommerz SDK into your Xcode project using CocoaPods, specify it in your Podfile
 ```
-platform :ios, '11.0'
+platform :ios, '13.0'
 
 target 'YourApp' do
   use_frameworks!
