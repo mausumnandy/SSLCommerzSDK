@@ -32943,73 +32943,38 @@
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/UIModules\/Cards\/CardEntry\/View\/CardEntryView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 19657,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/UIModules\/Cards\/CardEntry\/View\/CardEntryView.swift",
       "kind": "StringLiteral",
-      "offset": 19688,
-      "length": 10,
-      "value": "\"Pay with\""
-    },
-    {
-      "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/UIModules\/Cards\/CardEntry\/View\/CardEntryView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19785,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/UIModules\/Cards\/CardEntry\/View\/CardEntryView.swift",
-      "kind": "StringLiteral",
-      "offset": 19936,
-      "length": 15,
-      "value": "\"gPay_dark.png\""
+      "offset": 19697,
+      "length": 9,
+      "value": "\"gPayBtn\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/UIModules\/Cards\/CardEntry\/View\/CardEntryView.swift",
       "kind": "BooleanLiteral",
-      "offset": 20071,
+      "offset": 19826,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/UIModules\/Cards\/CardEntry\/View\/CardEntryView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20427,
+      "offset": 20134,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/UIModules\/Cards\/CardEntry\/View\/CardEntryView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20847,
+      "offset": 20554,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/UIModules\/Cards\/CardEntry\/View\/CardEntryView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20952,
+      "offset": 20659,
       "length": 3,
       "value": "-16"
-    },
-    {
-      "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/UIModules\/Cards\/CardEntry\/View\/CardEntryView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 21068,
-      "length": 2,
-      "value": "50"
-    },
-    {
-      "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/UIModules\/Cards\/CardEntry\/View\/CardEntryView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 21140,
-      "length": 2,
-      "value": "20"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/UIModules\/Home\/BNPL\/model\/Response Model\/BnplCheckEnableResponseModel.swift",
@@ -37725,203 +37690,210 @@
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3819,
+      "offset": 3816,
+      "length": 9,
+      "value": "\"gPayBtn\""
+    },
+    {
+      "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3952,
       "length": 11,
       "value": "\"gPay_dark\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3959,
+      "offset": 4092,
       "length": 12,
       "value": "\"gPay_light\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4099,
+      "offset": 4232,
       "length": 11,
       "value": "\"headphone\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4255,
+      "offset": 4388,
       "length": 20,
       "value": "\"headphone_selected\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4400,
+      "offset": 4533,
       "length": 10,
       "value": "\"ic_login\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4528,
+      "offset": 4661,
       "length": 6,
       "value": "\"info\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4663,
+      "offset": 4796,
       "length": 12,
       "value": "\"info_round\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4810,
+      "offset": 4943,
       "length": 15,
       "value": "\"info_selected\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4956,
+      "offset": 5089,
       "length": 13,
       "value": "\"language_bn\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5100,
+      "offset": 5233,
       "length": 13,
       "value": "\"language_en\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5233,
+      "offset": 5366,
       "length": 7,
       "value": "\"login\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5362,
+      "offset": 5495,
       "length": 8,
       "value": "\"logout\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5492,
+      "offset": 5625,
       "length": 8,
       "value": "\"master\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5644,
+      "offset": 5777,
       "length": 20,
       "value": "\"master_card_active\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5812,
+      "offset": 5945,
       "length": 22,
       "value": "\"master_card_inactive\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5969,
+      "offset": 6102,
       "length": 15,
       "value": "\"merchant_logo\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6121,
+      "offset": 6254,
       "length": 16,
       "value": "\"messenger_icon\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6277,
+      "offset": 6410,
       "length": 17,
       "value": "\"nooChangeBanner\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6414,
+      "offset": 6547,
       "length": 7,
       "value": "\"offer\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6550,
+      "offset": 6683,
       "length": 12,
       "value": "\"offer_icon\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6699,
+      "offset": 6832,
       "length": 16,
       "value": "\"offer_selected\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6831,
+      "offset": 6964,
       "length": 5,
       "value": "\"ssl\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6968,
+      "offset": 7101,
       "length": 14,
       "value": "\"ssl_com_logo\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7115,
+      "offset": 7248,
       "length": 14,
       "value": "\"support_icon\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7245,
+      "offset": 7378,
       "length": 5,
       "value": "\"tap\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7377,
+      "offset": 7510,
       "length": 11,
       "value": "\"union_pay\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7506,
+      "offset": 7639,
       "length": 6,
       "value": "\"visa\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7652,
+      "offset": 7785,
       "length": 18,
       "value": "\"visa_card_active\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Library\/Developer\/Xcode\/DerivedData\/SSLCommerzSDK-crehalqyzrhqvhdgaateujeazuta\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLCommerzSDK\/IntermediateBuildFilesPath\/SSLCommerzSDK.build\/Release-iphonesimulator\/SSLCommerzSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7814,
+      "offset": 7947,
       "length": 20,
       "value": "\"visa_card_inactive\""
     }

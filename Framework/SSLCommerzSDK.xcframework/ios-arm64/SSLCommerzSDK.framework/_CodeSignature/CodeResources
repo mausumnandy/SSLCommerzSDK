@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		VuV3e78U48DfIkeBKxPq1CdaXnQ=
+		QTq1KPKWnAbpsXeEuqq4WKFekhY=
 		</data>
 		<key>Headers/SSLCommerzSDK-Swift.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8gfiaMsr28BG76A9b8MjHuTr3Hs=
+		dE5sHpG0GZhQdUA9g4/gh3F/Ifc=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		cTcrAqV9ZOezsXroIQti7tl4dJI=
+		4RTBrPuF9AiS1/x2D3bXYCHTwzM=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		YRb3GE2ZduIXw2uz6gB6vnhB2KE=
+		7E3Cu/ad5DGAdYOe0ExSIl43fns=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,7 +55,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B1SmED+DPu5NMg5yX0DQ0bI+CibDOPqwWR948l7CKBE=
+			B9VCOWNpFdJv3vj8DchCOhkw7GQESKXE8rfshgNXuP4=
 			</data>
 		</dict>
 		<key>Headers/SSLCommerzSDK-Swift.h</key>
@@ -76,7 +76,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KjN35yYX6+G4fKp9TT7d+1374zyhTUmkSHLyC8dTA/o=
+			dYZUdU0a2QOnrfcHNfG8RggxEsYVvEPFpHI11BUCodA=
 			</data>
 		</dict>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -104,7 +104,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XrhOAELF8asQoM5cg7aPtzNK4NU5BYlUprFyjTNEepk=
+			W9Ks5/To8S+ck9/sVbgbsQmFBu5LD2DOoayRoYTltIk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
