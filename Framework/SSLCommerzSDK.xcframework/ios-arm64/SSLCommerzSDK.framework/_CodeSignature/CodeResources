@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		j+ZgPsSTt55v+Ih8xqZvGMmhF8o=
+		VuV3e78U48DfIkeBKxPq1CdaXnQ=
 		</data>
 		<key>Headers/SSLCommerzSDK-Swift.h</key>
 		<data>
-		BeugWEXOjLc7NQXtjz0JaqXAfbM=
+		K2nLUnhAhItAg1X8sxEZX7SZubY=
 		</data>
 		<key>Headers/SSLCommerzSDK.h</key>
 		<data>
@@ -18,31 +18,35 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OnjGv8X+AyFUdiRP7GKCwz0+Ssc=
+		8gfiaMsr28BG76A9b8MjHuTr3Hs=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		wsVd+hBMVL9zxcdNovwlXdixH9s=
+		cTcrAqV9ZOezsXroIQti7tl4dJI=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		pP0fs5u8JH9wg7AifgFUTDau43Q=
+		c0KunPQmrwqkvz2krPz3Sxy54Uw=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		E676jNymTmU1uvIYYmhuodF/2N8=
+		9NEHM1t2yfTgYOfUKSJ9XDz76d0=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		pP0fs5u8JH9wg7AifgFUTDau43Q=
+		c0KunPQmrwqkvz2krPz3Sxy54Uw=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Fpu9oCzfGIdOoz9vic/47CNvqPo=
+		YRb3GE2ZduIXw2uz6gB6vnhB2KE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		doVH2nf/FmBfYIargwGMP2MtEMg=
+		</data>
+		<key>public_key.pem</key>
+		<data>
+		qTImaaOXQtBsHhMKBHzogffsOz8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -51,14 +55,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GnAJmdZVX+e2kNGJDQw9nNRiShnXfNE3Ze5b1AXSgaw=
+			B1SmED+DPu5NMg5yX0DQ0bI+CibDOPqwWR948l7CKBE=
 			</data>
 		</dict>
 		<key>Headers/SSLCommerzSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RpVf6cwwLQ4jbLYsu38VaYHPCJt4LaIo086yECvADIQ=
+			KHTFw7GUbeKeDwlQd/lFFje8MBd3hanSKBrwnqMutjw=
 			</data>
 		</dict>
 		<key>Headers/SSLCommerzSDK.h</key>
@@ -72,35 +76,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GrcknmhSDusYibKwZsPYe/KtXcJoYaXVh42cxgxl61A=
+			KjN35yYX6+G4fKp9TT7d+1374zyhTUmkSHLyC8dTA/o=
 			</data>
 		</dict>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hw5wsLIIbDEwSZLbG8vO5JJfy3gTMyXCUdd3VgA/EJI=
+			55CtrKSuLaY/XbBSb/rNdV4AMKMIC5BZyNVnFmc61aI=
 			</data>
 		</dict>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a0vmku9BDWinBY/7Atf+H5rK+pq7LsOhOaGi/8Gl4B8=
+			Xa5XnhIsQpm3bYqUPf/tktd9BEyfsxZrHPOpvB/hL00=
 			</data>
 		</dict>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hw5wsLIIbDEwSZLbG8vO5JJfy3gTMyXCUdd3VgA/EJI=
+			55CtrKSuLaY/XbBSb/rNdV4AMKMIC5BZyNVnFmc61aI=
 			</data>
 		</dict>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qe/ACi0xJ9SX5Tt/kZTkWR2b/K09Vy+HHZxh4NLmuzQ=
+			XrhOAELF8asQoM5cg7aPtzNK4NU5BYlUprFyjTNEepk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -108,6 +112,13 @@
 			<key>hash2</key>
 			<data>
 			xoSaCT4VPGj6Pl8mLgscL9lATTgR/5cvlkocsRNEzmc=
+			</data>
+		</dict>
+		<key>public_key.pem</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GfZmxfRhv08U4FGFmYdhc2ovUWEuBIFetAQ/Gm19oYc=
 			</data>
 		</dict>
 	</dict>

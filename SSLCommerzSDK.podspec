@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "SSLCommerzSDK"
-    s.version      = "2.0.5"
+    s.version      = "2.1.0"
     s.summary      = "SSLCommerzSDK is an iOS SDK for integrating SSLCommerz payment gateway, enabling secure and seamless online transactions."
     s.description  = <<-DESC
   SSLCommerzSDK is a powerful and easy-to-integrate iOS SDK designed to enable seamless integration of SSLCommerz payment gateway into your iOS applications. With this SDK, developers can easily handle secure online payments, making it an ideal solution for businesses looking to implement payment functionalities in their mobile apps.
@@ -23,6 +23,6 @@ DESC
     s.vendored_frameworks = "Framework/SSLCommerzSDK.xcframework"
     s.platform = :ios
     s.swift_version = "5"
-    s.ios.deployment_target  = '12.0'
+    s.ios.deployment_target  = '13.0'
     s.requires_arc = true
 end
