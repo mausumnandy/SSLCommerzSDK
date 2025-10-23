@@ -1655,9 +1655,126 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "language",
+            "printedName": "language",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@SSLCommerzSDK@objc(cs)IntegrationInformation(py)language",
+            "mangledName": "$s13SSLCommerzSDK22IntegrationInformationC8languageSSSgvp",
+            "moduleName": "SSLCommerzSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SSLCommerzSDK@objc(cs)IntegrationInformation(im)language",
+                "mangledName": "$s13SSLCommerzSDK22IntegrationInformationC8languageSSSgvg",
+                "moduleName": "SSLCommerzSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SSLCommerzSDK@objc(cs)IntegrationInformation(im)setLanguage:",
+                "mangledName": "$s13SSLCommerzSDK22IntegrationInformationC8languageSSSgvs",
+                "moduleName": "SSLCommerzSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13SSLCommerzSDK22IntegrationInformationC8languageSSSgvM",
+                "mangledName": "$s13SSLCommerzSDK22IntegrationInformationC8languageSSSgvM",
+                "moduleName": "SSLCommerzSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(storeID:storePassword:totalAmount:currency:transactionId:productCategory:)",
+            "printedName": "init(storeID:storePassword:totalAmount:currency:transactionId:productCategory:language:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1700,13 +1817,28 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@SSLCommerzSDK@objc(cs)IntegrationInformation(im)initWithStoreID:storePassword:totalAmount:currency:transactionId:productCategory:",
-            "mangledName": "$s13SSLCommerzSDK22IntegrationInformationC7storeID0E8Password11totalAmount8currency13transactionId15productCategoryACSS_SSSdS3Stcfc",
+            "usr": "c:@M@SSLCommerzSDK@objc(cs)IntegrationInformation(im)initWithStoreID:storePassword:totalAmount:currency:transactionId:productCategory:language:",
+            "mangledName": "$s13SSLCommerzSDK22IntegrationInformationC7storeID0E8Password11totalAmount8currency13transactionId15productCategory8languageACSS_SSSdS4SSgtcfc",
             "moduleName": "SSLCommerzSDK",
-            "objc_name": "initWithStoreID:storePassword:totalAmount:currency:transactionId:productCategory:",
+            "objc_name": "initWithStoreID:storePassword:totalAmount:currency:transactionId:productCategory:language:",
             "declAttributes": [
               "AccessControl",
               "ObjC"
@@ -26084,49 +26216,49 @@
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/Models\/SSLCommerzInitializerDataModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1125,
+      "offset": 1223,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/Models\/SSLCommerzInitializerDataModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1144,
+      "offset": 1242,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/Models\/SSLCommerzInitializerDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 9234,
+      "offset": 9332,
       "length": 9,
       "value": "\"product\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/Models\/SSLCommerzInitializerDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 9268,
+      "offset": 9366,
       "length": 10,
       "value": "\"quantity\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/Models\/SSLCommerzInitializerDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 9301,
+      "offset": 9399,
       "length": 8,
       "value": "\"amount\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/Models\/SSLCommerzInitializerDataModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11508,
+      "offset": 11606,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/Models\/SSLCommerzInitializerDataModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11537,
+      "offset": 11635,
       "length": 1,
       "value": "1"
     },

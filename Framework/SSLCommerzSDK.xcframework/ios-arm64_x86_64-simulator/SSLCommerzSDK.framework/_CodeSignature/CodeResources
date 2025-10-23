@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/SSLCommerzSDK-Swift.h</key>
 		<data>
-		ftLp+D9g3521bioOK/GBqyCqCoM=
+		XbShXLfF72Jh0INRtxXYdHqh3DY=
 		</data>
 		<key>Headers/SSLCommerzSDK.h</key>
 		<data>
@@ -18,15 +18,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4OVHSaL9wTLTWh+S96peOoTaotU=
+		GLdSrR8I7vybPhFmAhaP5BGBOtE=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		NOK161wb3IhsO3hoF3eqCcacU5E=
+		vbEaxCW+UwllITbSnXIB1XljRwo=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		FuoZfJ7iKpsLj4sY4r+rlSw2nT8=
+		Mvgye6OXN0WwvsakTuC10Yje+/s=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		FuoZfJ7iKpsLj4sY4r+rlSw2nT8=
+		Mvgye6OXN0WwvsakTuC10Yje+/s=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		haIwZC52cXPpFfBUp51BqspfLBk=
+		A8/dJJWotgAnXrCSP7PZMb4Z244=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		NOK161wb3IhsO3hoF3eqCcacU5E=
+		vbEaxCW+UwllITbSnXIB1XljRwo=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		QdMpdGcbvkGFk+D8tm5UN7DGipM=
+		FtfxdZynQxXAvlLY/FcDpZ+9p4M=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		QdMpdGcbvkGFk+D8tm5UN7DGipM=
+		FtfxdZynQxXAvlLY/FcDpZ+9p4M=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Le6MiTY3Q3SoGdWOFKubOYO/t1o=
+		NKc5fNi/DDcEYF18frz5F6F6w5U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -82,7 +82,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pRPWvx4naw8whnaqoNSWTUlbjpeosWD9BqLAwDp6PR0=
+			Y/JfNnRTLOPp3q+9wo/2/ZRwaIUVRA+4kNHkSJxP0Y8=
 			</data>
 		</dict>
 		<key>Headers/SSLCommerzSDK.h</key>
@@ -96,14 +96,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			obwNapEmIOuil8LAsdnyi39dLeWsm/BzMLoaFPufkrU=
+			63G3rpDEuhMeslzJNqCkpp9AxJiyKywsWG1XuxvbF7E=
 			</data>
 		</dict>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mq9m4DvWuPsP6AZQGkUf4trD1U8ixqzuqD8VxmsWk5w=
+			RnlHdNdNau2jjwo+Qcm1ywqvcUAKt/yZfKHwX3YWDKk=
 			</data>
 		</dict>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -117,28 +117,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mq9m4DvWuPsP6AZQGkUf4trD1U8ixqzuqD8VxmsWk5w=
+			RnlHdNdNau2jjwo+Qcm1ywqvcUAKt/yZfKHwX3YWDKk=
 			</data>
 		</dict>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IzM5XdcvUyupr9jWVKCIrOPZBOSnsJuCE4sxDYZnsx8=
+			/uivGPQluN8z0R1wIhlh1Np3tCQycIWnbyo+ZvDn6f8=
 			</data>
 		</dict>
 		<key>Modules/SSLCommerzSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			obwNapEmIOuil8LAsdnyi39dLeWsm/BzMLoaFPufkrU=
+			63G3rpDEuhMeslzJNqCkpp9AxJiyKywsWG1XuxvbF7E=
 			</data>
 		</dict>
 		<key>Modules/SSLCommerzSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1XEiFFUQO7CCMJCkkuCgDg4boFNFMO3C6CWcOljTIqo=
+			Ctl0zCSpGAQ+8YUrGTXPxEhy5meriSrPKYI/dFllSTQ=
 			</data>
 		</dict>
 		<key>Modules/SSLCommerzSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -152,14 +152,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1XEiFFUQO7CCMJCkkuCgDg4boFNFMO3C6CWcOljTIqo=
+			Ctl0zCSpGAQ+8YUrGTXPxEhy5meriSrPKYI/dFllSTQ=
 			</data>
 		</dict>
 		<key>Modules/SSLCommerzSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YynlCygKtblxV9N83GYmHxWvg89yFjVEDOFcRpSfuuI=
+			bPdCZ0T0xvgk3p8RdOJix6YWyzCz8/E7EibW9dRCAIk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -398,7 +398,8 @@ SWIFT_CLASS("_TtC13SSLCommerzSDK22IntegrationInformation")
 @property (nonatomic, copy) NSString * _Nullable multiCardName;
 @property (nonatomic, copy) NSString * _Nullable allowedBIN;
 @property (nonatomic, copy) NSString * _Nullable billNumber;
-- (nonnull instancetype)initWithStoreID:(NSString * _Nonnull)storeID storePassword:(NSString * _Nonnull)storePassword totalAmount:(double)totalAmount currency:(NSString * _Nonnull)currency transactionId:(NSString * _Nonnull)transactionId productCategory:(NSString * _Nonnull)productCategory OBJC_DESIGNATED_INITIALIZER;
+@property (nonatomic, copy) NSString * _Nullable language;
+- (nonnull instancetype)initWithStoreID:(NSString * _Nonnull)storeID storePassword:(NSString * _Nonnull)storePassword totalAmount:(double)totalAmount currency:(NSString * _Nonnull)currency transactionId:(NSString * _Nonnull)transactionId productCategory:(NSString * _Nonnull)productCategory language:(NSString * _Nullable)language OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
