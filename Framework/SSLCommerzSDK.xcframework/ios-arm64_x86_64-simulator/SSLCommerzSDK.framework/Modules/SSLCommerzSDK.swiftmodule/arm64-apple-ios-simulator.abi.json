@@ -28199,7 +28199,7 @@
       "kind": "StringLiteral",
       "offset": 281,
       "length": 7,
-      "value": "\"2.5.0\""
+      "value": "\"2.1.3\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/Utility\/Constant.swift",
@@ -37332,7 +37332,7 @@
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/sbac\/sslcommerz_sdk_ios\/SSLCommerzSDK\/SSLCommerzSDK\/SDK\/Utility\/SSLBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3085,
+      "offset": 3084,
       "length": 2,
       "value": "40"
     },
