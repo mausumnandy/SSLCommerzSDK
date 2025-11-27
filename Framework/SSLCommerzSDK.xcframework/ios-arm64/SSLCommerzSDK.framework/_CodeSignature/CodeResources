@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OCPg2PudnuSDenYKSPQdW7DAUME=
+		5EtQTAufINiLE8z9075TCOs+lGY=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		m7F+32lAWwRcD25O6JOOkI4B5cw=
+		n4jjCYwVJuslCCKFnDMex+iesXg=
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		4w1BS4k6xiMbvH5GqxqUPizp8ME=
+		IwqOHYxq2DrxgjUTrGB6/WcX6f4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -76,7 +76,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Eo5tvWCcHOIlOelV2od0jyIgeC2eZ14HBrZHq1bXo3Y=
+			Y/aCfZD0Z/U60PGtn9/yMTFiikiWzjVfOWAMzhKiWIw=
 			</data>
 		</dict>
 		<key>Modules/SSLCommerzSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -104,7 +104,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			76dsz7LqmlwA8QCd2+jg4GGB+MGwAt6gy9GN1TS/f1c=
+			ldbUAD++Pbxa+Pa+VQ4hdtmUw2ktPYFNkB50W0D3Vas=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
